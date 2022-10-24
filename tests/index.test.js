@@ -65,8 +65,8 @@ describe('Route Query: GET /bovine/allbovines?SENASA_ID=....', function () {
         expect(response.status).to.eql(200)
         response.body.slice(1, response.body.length).map((bovine) => {
             expect(bovine).to.have.property('SENASA_ID');
-            expect(bovine).to.have.property('type');
             expect(bovine).to.have.property('potrero');
+            expect(bovine).to.have.property('type');
             expect(bovine).to.have.property('weight');
             expect(bovine).to.have.property('device');
             expect(bovine).to.have.property('n_device');
