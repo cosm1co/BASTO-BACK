@@ -12,9 +12,10 @@ To install all dependencies first run:
 ### `npm install` 
 
 Create file .env with:
--PORT= 4001
--MONGODB_URI= "mongodb://localhost/bastodb"
--CLIENT_URL= "http://localhost:3000"
+---------------
+PORT= 4001
+MONGODB_URI= "mongodb://localhost/bastodb"
+CLIENT_URL= "http://localhost:3000"
 
 To start run:
 ### `npm start`
