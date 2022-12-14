@@ -1,6 +1,6 @@
 export const bovinejson = [
     {
-        "SENASA_ID": "AGUADA098765432",
+        "SENASA_ID": "AGUADA09876536YG",
         "type": "TORO",
         "weight": "347",
         "potrero": "VACA MUERTA",
@@ -8,7 +8,7 @@ export const bovinejson = [
         "n_device": "CARAV198"
       },
       {
-        "SENASA_ID": "AGUADA098765443",
+        "SENASA_ID": "AGUADA0987231234",
         "type": "VAQUILLONA",
         "weight": "320",
         "potrero": "VACA FELIZ",
@@ -24,7 +24,7 @@ export const bovinejson = [
         "n_device": "CARAV123"
       },
       {
-        "SENASA_ID": "AGUADA098765756",
+        "SENASA_ID": "CORRAL0122966780",
         "type": "TORO",
         "weight": "400",
         "potrero": "VACA LOCA",
@@ -40,7 +40,7 @@ export const bovinejson = [
         "n_device": "COLLAR56"
       },
       {
-        "SENASA_ID": "AGUADA098048432",
+        "SENASA_ID": "CORRAL1122966789",
         "type": "TORO",
         "weight": "200",
         "potrero": "VACA LOCA",
@@ -56,7 +56,7 @@ export const bovinejson = [
         "n_device": "CA345ANA"
       },
       {
-        "SENASA_ID": "AGUADA542765432",
+        "SENASA_ID": "AGUADA542765432J",
         "type": "TORO",
         "weight": "400",
         "potrero": "VACA FELIZ",
@@ -72,11 +72,67 @@ export const bovinejson = [
         "n_device": "COLLAR54"
       },
       {
-        "SENASA_ID": "AGUADA098765489",
+        "SENASA_ID": "AGUADA542765432F",
         "type": "TORO",
         "weight": "347",
         "potrero": "VACA MUERTA",
         "device": "CARAVANA",
         "n_device": "CARAV108"
-      } 
+      },
+      {
+        "SENASA_ID": "AGUADA5427654111",
+        "type": "VAQUILLONA",
+        "weight": "432",
+        "potrero": "VACA MUERTA",
+        "device": "CARAVANA",
+        "n_device": "CARAV111"
+      },
+      {
+        "SENASA_ID": "AGUADA5427655555",
+        "type": "NOVILLO",
+        "weight": "123",
+        "potrero": "POTRERO TORONJA",
+        "device": "CARAVANA",
+        "n_device": "CARAV222"
+      },
+      {
+        "SENASA_ID": "AGUADA5427999999",
+        "type": "VAQUILLONA",
+        "weight": "347",
+        "potrero": "VACA MUERTA",
+        "device": "CARAVANA",
+        "n_device": "CARAV108"
+      },
+      {
+        "SENASA_ID": "AGUADA000000432J",
+        "type": "TORO",
+        "weight": "347",
+        "potrero": "VACA MUERTA",
+        "device": "COLLAR",
+        "n_device": "COLLA108"
+      },
+      {
+        "SENASA_ID": "MOJADO0000000001",
+        "type": "NOVILLO",
+        "weight": "347",
+        "potrero": "POTRERO FUNES",
+        "device": "COLLAR",
+        "n_device": "12COLLAR"
+      },
+      {
+        "SENASA_ID": "MOJADO0000000035",
+        "type": "VAQUILLONA",
+        "weight": "347",
+        "potrero": "POTRERO FUNES",
+        "device": "COLLAR",
+        "n_device": "16COLLAR"
+      },
+      {
+        "SENASA_ID": "MOJADO0000000084",
+        "type": "NOVILLO",
+        "weight": "213",
+        "potrero": "POTRERO TORONJA",
+        "device": "CARAVANA",
+        "n_device": "CARAV238"
+      }
     ]
